@@ -13,7 +13,7 @@ The purpose of this project is to understand how to initialize a Spring Boot app
 * IntelliJ IDEA
 * Embedded Tomcat
 
-## 📌 Project Setup
+## 📌 Project Setup 
 
 The project was initialized using **Spring Initializr**.
 
