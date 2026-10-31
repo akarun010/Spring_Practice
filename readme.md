@@ -5,7 +5,7 @@ This project was created as the starting point for learning **Spring Framework a
 The purpose of this project is to understand how to initialize a Spring Boot application, configure the project using Maven, and run the application using the embedded server.
 
 ## 🚀 Technologies Used
-
+ 
 * Java 17
 * Spring Boot
 * Spring Framework
